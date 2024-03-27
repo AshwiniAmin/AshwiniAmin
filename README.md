@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshwiniAmin
 - 👀 I’m interested in Image processing using Deep learning
-- 🌱 I’m currently learning Deep learning, Machine LEarning, Image processing
+- 🌱 I’m currently learning Deep learning, Machine Learning, Image processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
